@@ -15,6 +15,7 @@ When looking at the results (total rides/drivers/fares and average fares per rid
 ## Summary
 
 ![Fares by City](https://github.com/Jeffstr00/PyBer_Analysis/blob/main/Resources/fares_by_city.png)
+![PyBer Ride Sharing Data](https://github.com/Jeffstr00/PyBer_Analysis/blob/main/analysis/Fig1.png)
 
 The observed disparities between city types indicates that quite a bit of potential might exist for making the company more profitable.  However, in order to do this, the company must determine how elastic or inelastic the demand for ride sharing is.  Clearly, people are willing to pay more for rides in rural areas than they are in urban areas.  However, what is the primary cause and what is the effect?  In other words, are fewer rural people using ride sharing because prices are high, or are prices high because of a lack of demand?  If prices were lowered, would an increase in rides compensate for the decrease in average cost?  In order to find this out, the company could experiment with changing the prices in certain markets and seeing how much it affects sales.
 

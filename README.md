@@ -26,6 +26,6 @@ On the other side of the coin, the larger number of urban rides could indicate t
 ![% Fares by City Type](https://github.com/Jeffstr00/PyBer_Analysis/blob/main/analysis/Fig5.png)![% Rides by City Type](https://github.com/Jeffstr00/PyBer_Analysis/blob/main/analysis/Fig6.png)
 
 <p float="left">
-  <img src="https://github.com/Jeffstr00/PyBer_Analysis/blob/main/analysis/Fig5.png" width="100" />
-  <img src="https://github.com/Jeffstr00/PyBer_Analysis/blob/main/analysis/Fig6.png" width="100" />
+  <img src="https://github.com/Jeffstr00/PyBer_Analysis/blob/main/analysis/Fig5.png" width="500" />
+  <img src="https://github.com/Jeffstr00/PyBer_Analysis/blob/main/analysis/Fig6.png" width="500" />
 </p>

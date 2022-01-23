@@ -27,3 +27,5 @@ On the other side of the coin, the larger number of urban rides could indicate t
   <img src="https://github.com/Jeffstr00/PyBer_Analysis/blob/main/analysis/Fig5.png" width="500" />
   <img src="https://github.com/Jeffstr00/PyBer_Analysis/blob/main/analysis/Fig6.png" width="500" />
 </p>
+
+Basically, it all boils down to this.  While totals are much higher in urban areas, rural rides are proportionally more profitable.  The company has two basic options for increasing profitability.  First, they could try to raise the currently low prices in urban areas to make them more in line with the higher rural prices.  On the other hand, they could try to make rural rides more common, which would obviously lead to higher profits (as long as it didn't cause prices to fall too much).

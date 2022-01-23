@@ -24,8 +24,8 @@ Once that is determined, the company has a few potential options for increasing 
 On the other side of the coin, the larger number of urban rides could indicate that potential could exist for increasing the number of rural rides.  If rural ride totals are currently being kept low by high prices and low number of drivers (which could equate to longer wait times), we could increase total rides by increasing our number of drivers and lowering prices.  Depending on how elastic the demand is, this increase might be more than enough to offset average prices going down, so it should definitely be explored.  Given how high rural prices are, even small increases in number of rides would lead to decent gains.
 
 <p float="left">
-  <img src="https://github.com/Jeffstr00/PyBer_Analysis/blob/main/analysis/Fig5.png" width="500" />
-  <img src="https://github.com/Jeffstr00/PyBer_Analysis/blob/main/analysis/Fig6.png" width="500" />
+  <img src="https://github.com/Jeffstr00/PyBer_Analysis/blob/main/analysis/Fig5.png" width="400" />
+  <img src="https://github.com/Jeffstr00/PyBer_Analysis/blob/main/analysis/Fig6.png" width="400" />
 </p>
 
 Basically, it all boils down to this.  While totals are much higher in urban areas, rural rides are proportionally more profitable.  The company has two basic options for increasing profitability.  First, they could try to raise the currently low prices in urban areas to make them more in line with the higher rural prices.  On the other hand, they could try to make rural rides more common, which would obviously lead to higher profits (as long as it didn't cause prices to fall too much).

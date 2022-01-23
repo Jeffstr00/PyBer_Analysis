@@ -23,5 +23,4 @@ Once that is determined, the company has a few potential options for increasing 
 
 On the other side of the coin, the larger number of urban rides could indicate that potential could exist for increasing the number of rural rides.  If rural ride totals are currently being kept low by high prices and low number of drivers (which could equate to longer wait times), we could increase total rides by increasing our number of drivers and lowering prices.  Depending on how elastic the demand is, this increase might be more than enough to offset average prices going down, so it should definitely be explored.  Given how high rural prices are, even small increases in number of rides would lead to decent gains.
 
-![% Fares by City Type](https://github.com/Jeffstr00/PyBer_Analysis/blob/main/analysis/Fig5.png)
-![% Rides by City Type](https://github.com/Jeffstr00/PyBer_Analysis/blob/main/analysis/Fig6.png)
+![% Fares by City Type](https://github.com/Jeffstr00/PyBer_Analysis/blob/main/analysis/Fig5.png)![% Rides by City Type](https://github.com/Jeffstr00/PyBer_Analysis/blob/main/analysis/Fig6.png)

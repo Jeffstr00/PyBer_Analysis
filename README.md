@@ -6,7 +6,7 @@ As a new data analyst at PyBer, a ride-sharing company, the curiously-named V. I
 
 ## Results
 
-To conduct the analysis, most of the work was done at a dataframe level (working with, combining, and manipulating them) rather than performing complicated mathematical work.  Once the ride and city dataframes were merged using `pyber_data_df = pd.merge(ride_data_df, city_data_df, how="left", on=["city", "city"])`, all we had to do was extract the data and then perform very basic calculations.  
+To conduct the analysis, most of the work was done at a dataframe level (working with, combining, and manipulating them) rather than performing complicated mathematical work.  Once the ride and city dataframes were merged using `pyber_data_df = pd.merge(ride_data_df, city_data_df, how="left", on=["city", "city"])`, all we had to do was extract the data and then perform very basic calculations.  Total rides were found using `total_rides = pyber_data_df.groupby(["type"]).count()["ride_id"]` (which pulled all of the data on ride_id and seperated it by city type), and the same was done for both drivers and fares.  Once we had these totals, we could find averages simply by using `avg_ride_fare = total_fares / total_rides` and `avg_driver_fare = total_fares / total_drivers`.
 
 ![PyBer City Summary](https://github.com/Jeffstr00/PyBer_Analysis/blob/main/Resources/pyber_city_summary.png)
 
